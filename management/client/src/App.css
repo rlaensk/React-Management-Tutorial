@@ -1,0 +1,27 @@
+table{
+  width: 600px;
+  text-align: center;
+  display: flex;
+  align-content: center;
+}
+td{
+  width: 100px;
+  height: 80px;
+  border: 1px solid #000;
+  line-height: 82px;
+}
+.id{
+  width: 50px;
+}
+.img{
+  width: 100px;  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.img img{
+  line-height: 40px;
+}
+.name{
+  width: 80px;
+}
